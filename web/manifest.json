@@ -1,0 +1,16 @@
+{
+  "name": "Äreti · Joyería y Accesorios",
+  "short_name": "Äreti",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F6EF",
+  "theme_color": "#5F7C5E",
+  "description": "Inventario, ventas, caja y contabilidad para Äreti Joyería y Accesorios.",
+  "icons": [
+    { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
